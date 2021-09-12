@@ -76,7 +76,7 @@ int main(void)
   /* USER CODE END Init */
 
   /* Configure the system clock */
-  SystemClock_Config();
+  SystemClock_Config23();
 
   /* USER CODE BEGIN SysInit */
 
